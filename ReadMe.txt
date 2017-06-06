@@ -16,7 +16,7 @@ To build Soundflower, open a terminal window and cd to the Soundflower folder.  
 	cd Tools
 	
 2.	Build Soundflower:
-	./build.rb
+	./build.rb 
 
 	The build.rb will provide info about its required arg, which you will need to supply 
 	(Development or Deployment -- or the shorthand for them: dev or dep).
