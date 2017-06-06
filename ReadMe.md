@@ -1,3 +1,33 @@
+
+# JUST LOOKING FOR THE SOUNDFLOWER INSTALLER?
+https://github.com/mattingalls/Soundflower/releases/tag/2.0b2
+is the latest version
+
+
+
+
+# THE MOST RELIABLE WAY TO UNINSTALL
+From the Finder, **HIT** Shift-Cmd-G and **TYPE**:
+
+/Library/Extensions
+
+Then inside that folder, look for a "Soundflower.kext" file. If there is one,
+**DRAG** it into the trash (you may be asked for the admin password)
+
+**REPEAT**, typing in this folder path:
+
+/System/Library/Extensions
+
+**RESTART** your computer
+
+
+
+
+
+
+# ORIGINAL INSTRUCTIONS TO BUILD SOUNDFLOWER YOURSELF
+
+
 Soundflower Source ReadMe
 
 Originally by ma++ ingalls for Cycling'74
